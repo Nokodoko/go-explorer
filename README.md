@@ -2,13 +2,6 @@
 
 Go Explorer is a Vim plugin for exploring Go code.
 
-Go Explorer is a work in progress. It's usable, but there's much more to do.
-Use the [Go Explorer issue
-tracker](https://github.com/garyburd/go-explorer/issues) to report bugs and
-request features.
-
-View the [demonstration screencast](http://quick.as/ozlvsqa0r).
-
 ## GeDoc
 
 The GeDoc command shows documentation for the package specified by `spec`. 
