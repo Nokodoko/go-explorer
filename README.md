@@ -1,3 +1,8 @@
+This project is abandoned. 
+
+I'll add links to maintained forks here. Send me email (address listed on
+GitHub profile page) or submit a PR with links to add.
+
 # Go Explorer
 
 Go Explorer is a Vim plugin for exploring Go code.
